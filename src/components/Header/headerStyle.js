@@ -31,5 +31,5 @@ export const StyledLinkFavoritos  = styled(Link)`
     /* color: #FFFFFF; */
     background-color: #FFFFFF;
     font-weight: 400;
-    border-radius: 5px
+    border-radius: 5pxx 
 `;
